@@ -36,12 +36,13 @@ public class GenerateLog {
             "https://www.baidu.com/s?wd=%s",
             "https://www.sogou.com/web?query=%s",
             "https://cn.bing.com/search?q=%s",
-            "https://search.yahoo.com/search?p=%s"
+            "https://search.yahoo.com/search?p=%s",
+            "https://wwwww.fsaffa/search?p=%s"
     };
 
     //搜索关键字
     public static String[] search_keyword = {
-            "复制粘贴玩大数据",
+            "你好，我是aaa",
             "Bootstrap全局css样式的使用",
             "Elasticsearch的安装（windows）",
             "Kafka的安装及发布订阅消息系统（windows）",
